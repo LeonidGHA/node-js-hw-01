@@ -1,4 +1,3 @@
-// const { program } = require('commander');
 const { Command } = require("commander");
 
 const {
